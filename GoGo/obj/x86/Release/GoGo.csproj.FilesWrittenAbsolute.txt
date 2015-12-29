@@ -1,0 +1,7 @@
+/home/m3m0/opt/mono/GoGo/GoGo/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/m3m0/opt/mono/GoGo/GoGo/obj/x86/Release/GoGo.gtk-gui.gui.stetic
+/home/m3m0/opt/mono/GoGo/GoGo/bin/Release/GoGo.exe.config
+/home/m3m0/opt/mono/GoGo/GoGo/bin/Release/GoGo.exe.mdb
+/home/m3m0/opt/mono/GoGo/GoGo/bin/Release/GoGo.exe
+/home/m3m0/opt/mono/GoGo/GoGo/obj/x86/Release/GoGo.exe
+/home/m3m0/opt/mono/GoGo/GoGo/obj/x86/Release/GoGo.exe.mdb
